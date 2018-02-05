@@ -1,6 +1,6 @@
 import React from 'react'
  import PropTypes from 'prop-types'
- 
+
  class RegistrationForm extends React.Component {
    render() {
      return (
@@ -12,5 +12,5 @@ import React from 'react'
      );
    }
  }
- 
+
  export default RegistrationForm;
