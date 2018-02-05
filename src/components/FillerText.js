@@ -1,6 +1,6 @@
 import React from 'react'
  import PropTypes from 'prop-types'
- 
+
  class FillerText extends React.Component {
    render () {
      return (
@@ -8,5 +8,5 @@ import React from 'react'
      )
    }
  }
- 
+
  export default FillerText;
